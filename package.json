@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Laptenok",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.32.8",
+    "sass-loader": "^11.0.1",
+    "scss": "^0.2.4"
+  }
+}
